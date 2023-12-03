@@ -1,4 +1,4 @@
-- Hi, I’m @JohnnyDiabetes. I'm learning about front-end web dev.
+- Hi, I’m @John-Plough. I'm learning fullstack web dev.
 
 <!---
 JohnnyDiabetes/JohnnyDiabetes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
