@@ -1,11 +1,11 @@
----
-
 ## Queue•pid
 
 <!-- ![status](https://img.shields.io/badge/status-in--progress-yellow)   -->
+
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
-![api](https://img.shields.io/badge/API-TMDb-lightgrey)  
+![api](https://img.shields.io/badge/API-TMDb-lightgrey)
+
 <!-- ![deploy](https://img.shields.io/badge/deploy-pending-inactive) -->
 
 **A mobile-first dating app based on TV taste**  
