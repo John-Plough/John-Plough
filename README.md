@@ -4,7 +4,8 @@
 
 <!-- [Walkthrough](https://youtu.be/bG5gKRbzfqk) -->
 
-[![90-second Walkthrough](assets/HoneymakerGif.gif)](https://youtu.be/bG5gKRbzfqk)
+[![Honeymaker walkthrough gif](assets/HoneymakerGif.gif)](https://youtu.be/zJtuD3XLpzc)  
+_Click the animation above for an 83-second walkthrough video_
 
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
