@@ -5,7 +5,7 @@
 <a href="https://youtu.be/zJtuD3XLpzc" target="_blank">
   <img src="assets/HoneymakerGif.gif" alt="90-second Walkthrough" />
 </a>  
-<p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the GIF to watch the 90-second walkthrough</a></em></p>
+<p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the animation above to watch an 83-second game walkthrough</a></em></p>
 
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
