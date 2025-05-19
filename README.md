@@ -2,6 +2,10 @@
 
 **_Classic snake—reimagined with honey_**
 
+<!-- [Walkthrough](https://youtu.be/bG5gKRbzfqk) -->
+
+[![90-second Walkthrough](assets/HoneymakerGif.gif)](https://youtu.be/bG5gKRbzfqk)
+
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
 ![auth](https://img.shields.io/badge/auth-Google%20%26%20GitHub%20OAuth-orange)  
@@ -78,4 +82,4 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 
 ---
 
-> Want to learn more? Visit [john-plough.github.io](https://john-plough.github.io) or reach out.
+> Want to learn more? Visit [john-plough.github.io](https://john-plough.github.io).
