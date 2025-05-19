@@ -37,7 +37,7 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)  
-![api](https://img.shields.io/badge/API-Google%20Maps%20%2B%20Geocoding-lightgrey)  
+![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-lightgrey)  
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
