@@ -16,7 +16,7 @@ Features OAuth login, user scores, and a playful bee-and-honey theme.
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
-![auth](https://img.shields.io/badge/auth-Google%20%26%20OAuth-orange)  
+![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)  
 ![api](https://img.shields.io/badge/API-TMDb-lightgrey)
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
