@@ -1,6 +1,6 @@
 ## The Honeymaker
 
-**_Classic snake——reimagined with honey_**
+**_Classic snake—reimagined with honey_**
 
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
@@ -16,7 +16,7 @@ Features OAuth login, user scores, and a playful bee & honey theme. Focus on des
 
 ## Queue•pid
 
-**_A match based on taste——not just thirst_**
+**_A match based on taste—not just thirst_**
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
@@ -37,8 +37,8 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)  
-![api](https://img.shields.io/badge/API-Google%20Maps-lightgrey)  
-![auth](https://img.shields.io/badge/auth-OAuth2-orange)
+![api](https://img.shields.io/badge/API-Google%20Maps%20%2B%20Geocoding-lightgrey)  
+![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 **A civic mapping app for public resources**  
@@ -48,7 +48,7 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 
 ---
 
-## 🛍️ Thresh Mercantile
+## Thresh Mercantile
 
 **_A rotating selection of curated goods for the quietly discerning_**
 
@@ -64,9 +64,9 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 ---
 
-## 🌤️ Weather Xbar App
+## Weather Xbar App
 
-**_Quick weather——No clutter_**
+**_Quick weather. No clutter._**
 
 ![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-lightgrey)  
 ![api](https://img.shields.io/badge/API-Weather%20Service-blue)
