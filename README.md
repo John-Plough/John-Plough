@@ -1,32 +1,30 @@
-# 👋 John Plough's Project Portfolio
-
-A collection of projects I've built while transitioning into software engineering, blending creativity, civic tech, and fullstack development.
-
 ---
 
-## 🎯 Queue•pid _(In Development)_
+## Queue•pid
 
-![status](https://img.shields.io/badge/status-in--progress-yellow)  
+<!-- ![status](https://img.shields.io/badge/status-in--progress-yellow)   -->
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
 ![api](https://img.shields.io/badge/API-TMDb-lightgrey)  
-![deploy](https://img.shields.io/badge/deploy-pending-inactive)
+<!-- ![deploy](https://img.shields.io/badge/deploy-pending-inactive) -->
 
 **A mobile-first dating app based on TV taste**  
 Users log shows they love, rewatch, or want to share. Future plans include an AI-powered matching algorithm based on shared preferences.
 
-**Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences.
+**Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
 
 ---
 
-## 🐝 The Honeymaker
+## The Honeymaker
 
-![status](https://img.shields.io/badge/status-live-brightgreen)  
-![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20HTML%20%7C%20CSS-blue)  
+<!-- ![status](https://img.shields.io/badge/status-live-brightgreen)   -->
+
+![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
 ![auth](https://img.shields.io/badge/auth-Google%20%26%20GitHub%20OAuth-orange)  
-![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)  
-![deploy](https://img.shields.io/badge/deploy-Render-success)
+![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
+
+<!-- ![deploy](https://img.shields.io/badge/deploy-Render-success) -->
 
 **A whimsical web-based snake game**  
 Features OAuth login, user scores, and a playful bee-and-honey theme.
@@ -35,14 +33,16 @@ Features OAuth login, user scores, and a playful bee-and-honey theme.
 
 ---
 
-## 🚻 Relief Map _(aka Taking Care of Business)_
+## Relief Map _(aka Taking Care of Business)_
 
-![status](https://img.shields.io/badge/status-live-brightgreen)  
+<!-- ![status](https://img.shields.io/badge/status-live-brightgreen)   -->
+
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)  
 ![api](https://img.shields.io/badge/API-Google%20Maps-lightgrey)  
-![auth](https://img.shields.io/badge/auth-OAuth2-orange)  
-![deploy](https://img.shields.io/badge/deploy-Netlify%20%2B%20Render-success)
+![auth](https://img.shields.io/badge/auth-OAuth2-orange)
+
+<!-- ![deploy](https://img.shields.io/badge/deploy-Netlify%20%2B%20Render-success) -->
 
 **A civic mapping app for public resources**  
 Maps restrooms, trash bins, water fountains, and pet waste stations using geospatial data and Google Maps overlays.
@@ -53,12 +53,14 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 
 ## 🛍️ Thresh Mercantile
 
-![status](https://img.shields.io/badge/status-live-brightgreen)  
+<!-- ![status](https://img.shields.io/badge/status-live-brightgreen)   -->
+
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Rails%20API-red)  
 ![auth](https://img.shields.io/badge/auth-Role--Based--Access-orange)  
-![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)  
-![deploy](https://img.shields.io/badge/deploy-Render-success)
+![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
+
+<!-- ![deploy](https://img.shields.io/badge/deploy-Render-success) -->
 
 **A full-featured e-commerce application**  
 Includes shopping cart, order history, admin dashboard, and access control.
@@ -69,7 +71,8 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 ## 🌤️ Weather Xbar App
 
-![status](https://img.shields.io/badge/status-working-brightgreen)  
+<!-- ![status](https://img.shields.io/badge/status-working-brightgreen)   -->
+
 ![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-lightgrey)  
 ![api](https://img.shields.io/badge/API-Weather%20Service-blue)
 
