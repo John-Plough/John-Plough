@@ -1,18 +1,22 @@
 ## The Honeymaker
 
+**_Classic snake——reimagined with honey_**
+
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
 ![auth](https://img.shields.io/badge/auth-Google%20%26%20GitHub%20OAuth-orange)  
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 **A whimsical web-based snake game**  
-Features OAuth login, user scores, and a playful bee-and-honey theme.
+Features OAuth login, user scores, and a playful bee & honey theme. Focus on design and DOM fundamentals (no frameworks, no libraries, etc).
 
-**Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Gained hands-on experience with Docker and AWS deployment.
+**Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Docker and AWS deployment planned next.
 
 ---
 
 ## Queue•pid
+
+**_A match based on taste——not just thirst_**
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
@@ -21,13 +25,15 @@ Features OAuth login, user scores, and a playful bee-and-honey theme.
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 **A mobile-first dating app based on TV taste**  
-Users log shows they love, rewatch, or want to share. Future plans include an AI-powered matching algorithm based on shared preferences.
+Users log shows they love, shows they'll rewatch, and shows they want to experience together. Plans include an AI-powered matching algorithm based on shared preferences.
 
 **Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
 
 ---
 
 ## Taking Care of Business
+
+**_Know before you go_**
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)  
@@ -44,6 +50,8 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 
 ## 🛍️ Thresh Mercantile
 
+**_A rotating selection of curated goods for the quietly discerning_**
+
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Rails%20API-red)  
 ![auth](https://img.shields.io/badge/auth-Role--Based--Access-orange)  
@@ -58,6 +66,8 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 ## 🌤️ Weather Xbar App
 
+**_Quick weather——No clutter_**
+
 ![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-lightgrey)  
 ![api](https://img.shields.io/badge/API-Weather%20Service-blue)
 
@@ -68,4 +78,4 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 
 ---
 
-> 👀 Want to learn more? Visit [john-plough.github.io](https://john-plough.github.io) or reach out.
+> Want to learn more? Visit [john-plough.github.io](https://john-plough.github.io) or reach out.
