@@ -21,7 +21,7 @@ Features OAuth login, user scores, and a playful bee & honey theme. Focus on des
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)  
-![api](https://img.shields.io/badge/API-TMDb-green)
+![api](https://img.shields.io/badge/API-TMDb-darkgreen)
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 **A mobile-first dating app based on TV taste**  
