@@ -37,8 +37,8 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)  
-![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-lightgrey)  
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)
+![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen)  
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 **A civic mapping app for public resources**  
@@ -69,7 +69,7 @@ Includes shopping cart, order history, admin dashboard, and access control.
 **_Quick weather. No clutter._**
 
 ![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-lightgrey)  
-![api](https://img.shields.io/badge/API-Weather%20Service-blue)
+![api](https://img.shields.io/badge/API-Weather%20Service-darkgreen)
 
 **A lightweight macOS menu bar utility**  
 Displays live weather info using Zsh scripting and xbar plugin architecture.
