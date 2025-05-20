@@ -65,10 +65,16 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 
 **Learned**: Implemented geospatial queries and real-time map overlays. Strengthened skills in API integration and public-data visualization.
 
-![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)<br>
+<!-- ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)<br>
 ![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)<br>
 ![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen)<br>
+![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet) -->
+
+![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)
+![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)<br>
+![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)
+![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen)
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 ---
