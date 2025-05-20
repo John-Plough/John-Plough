@@ -96,9 +96,9 @@ Includes shopping cart, order history, admin dashboard, and access control.
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Role--Based--Access-orange) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
-<hr style="height:8px; border:none;" />
+---
 
-## Weather Bar
+# Weather Bar
 
 **_Quick weather. No clutter._**
 
