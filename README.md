@@ -19,6 +19,7 @@ _Game Stills_
 
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%26%20GitHub%20OAuth-orange) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
+<br><br>
 
 ---
 
@@ -35,6 +36,7 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-TMDb-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
+<br><br>
 
 ---
 
@@ -68,6 +70,7 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails%20%2B%20PostGIS-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
+<br><br>
 
 ---
 
@@ -98,8 +101,6 @@ Includes shopping cart, order history, admin dashboard, and access control.
 <br><br>
 
 ---
-
-<br><br>
 
 ## Weather Bar
 
