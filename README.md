@@ -130,7 +130,7 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
   </p>
 
   <p align="center">
-    House of Plough HQ
+    House of Plough HQ<br>
     <a href="https://john-plough.github.io">
       <img src="assets/HoP_LogoSmall.png" alt="House of Plough logo" width="100" />
     </a>
