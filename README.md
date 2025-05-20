@@ -13,6 +13,9 @@ Features OAuth login, user scores, and a playful bee & honey theme. Focus on des
 ![Game Stills](assets/HoneymakerStills.png)
 _Game Stills_
 
+<p><em><a href="https://github.com/John-Plough/snake-api.git" target="_blank">Backend Code Repo</a></em></p>
+<p><em><a href="https://github.com/John-Plough/honeymaker.git" target="_blank">Frontend Code Repo</a></em></p>
+
 **Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Docker and AWS deployment planned next.
 
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
