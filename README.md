@@ -1,21 +1,24 @@
 ## The Honeymaker
 
-**_Classic snake—reimagined with honey_**
+**_Classic snake game—reimagined with 100% more honey_**
 
 <a href="https://youtu.be/zJtuD3XLpzc" target="_blank">
   <img src="assets/HoneymakerGif.gif" alt="90-second Walkthrough" />
 </a>  
 <p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the animation above to watch an 83-second game walkthrough</a></em></p>
 
+**A whimsical web-based snake game**  
+Features OAuth login, user scores, and a playful bee & honey theme. Focus on design and DOM fundamentals (no frameworks, no libraries, etc).
+
+![Game Stills](assets/HoneymakerStills.png)
+_Game Stills_
+
+**Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Docker and AWS deployment planned next.
+
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
 ![auth](https://img.shields.io/badge/auth-Google%20%26%20GitHub%20OAuth-orange)  
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
-
-**A whimsical web-based snake game**  
-Features OAuth login, user scores, and a playful bee & honey theme. Focus on design and DOM fundamentals (no frameworks, no libraries, etc).
-
-**Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Docker and AWS deployment planned next.
 
 ---
 
