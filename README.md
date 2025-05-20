@@ -120,7 +120,7 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 
 **Learned**: Explored shell scripting, API polling, and formatting output for native desktop utility integration.
 
-![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-pink) ![api](https://img.shields.io/badge/API-Weather%20Service-darkgreen)
+![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-MediumVioletRed) ![api](https://img.shields.io/badge/API-Weather%20Service-darkgreen)
 
 ---
 
