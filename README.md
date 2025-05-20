@@ -124,8 +124,12 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 
 ---
 
-> Want to learn more? Visit House of Plough HQ [john-plough.github.io](https://john-plough.github.io).
+<p align="center">
+  Want to learn more? Visit <a href="https://john-plough.github.io">House of Plough HQ</a>.
+</p>
 
 <p align="center">
-  <img src="assets/HoP_LogoSmall.png" alt="House of Plough logo" width="100" />
+  <a href="https://john-plough.github.io">
+    <img src="assets/hq-icon.png" alt="House of Plough logo" width="100" />
+  </a>
 </p>
