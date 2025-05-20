@@ -125,11 +125,11 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 ---
 
 <p align="center">
-  <small>LinkedIn: <a href="https://www.linkedin.com/in/jplough">jplough</a></small>
+  <span style="opacity: 0.6;">LinkedIn: <a href="https://www.linkedin.com/in/jplough">jplough</a></span>
 </p>
 
 <p align="center">
-  <small>Want to learn more? Visit House of Plough HQ.</small>
+  <span style="opacity: 0.6;">Want to learn more? Visit House of Plough HQ.</span>
 </p>
 
 <p align="center">
