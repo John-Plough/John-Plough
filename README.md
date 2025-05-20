@@ -5,12 +5,12 @@
 <a href="https://youtu.be/zJtuD3XLpzc" target="_blank">
   <img src="assets/HoneymakerGif.gif" alt="90-second Walkthrough" />
 </a>  
-<p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the animation above to watch an 83-second game walkthrough on YouTube.</a></em></p>
+<p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the animation above to watch an 83-second game walkthrough on YouTube</a></em></p>
 
 **A whimsical web-based snake game**  
 Features OAuth login, user scores, and a playful bee & honey theme. Focus on design and DOM fundamentals (no frameworks, no libraries) - vanilla JS, CSS, & HTML.
 
-![Game Stills](assets/HoneymakerStills.png)
+![Game Stills](assets/HMStillsShadowed.png)
 _Game Stills_
 
 <p><em><a href="https://github.com/John-Plough/snake-api.git" target="_blank">Backend Code Repo</a></em></p>
