@@ -130,5 +130,5 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 </blockquote>
 
 <a href="https://john-plough.github.io">
-  <img src="assets/HoP_LogoSmall.png" alt="House of Plough logo" width="100" />
+  <img src="assets/grayHoP.png" alt="House of Plough logo" width="100" />
 </a>
