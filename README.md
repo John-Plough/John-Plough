@@ -36,11 +36,10 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-TMDb-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
-<br><br>
 
 ---
 
-## Taking Care of Business
+## TAKING CARE OF BUSINESS
 
 **_Know before you go_**
 
