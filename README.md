@@ -128,6 +128,9 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 
 <blockquote>
   LinkedIn: <a href="https://www.linkedin.com/in/jplough">jplough</a>  
+</blockquote>
+
+<blockquote>
   Want to learn more? Visit <a href="https://john-plough.github.io">House of Plough HQ</a>.
 </blockquote>
 
