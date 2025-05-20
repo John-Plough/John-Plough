@@ -8,7 +8,7 @@
 <p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the animation above to watch an 83-second game walkthrough</a></em></p>
 
 **A whimsical web-based snake game**  
-Features OAuth login, user scores, and a playful bee & honey theme. Focus on design and DOM fundamentals (no frameworks, no libraries, etc).
+Features OAuth login, user scores, and a playful bee & honey theme. Focus on design and DOM fundamentals (no frameworks, no libraries) - vanilla JS, CSS, & HTML.
 
 ![Game Stills](assets/HoneymakerStills.png)
 _Game Stills_
@@ -16,7 +16,7 @@ _Game Stills_
 <p><em><a href="https://github.com/John-Plough/snake-api.git" target="_blank">Backend Code Repo</a></em></p>
 <p><em><a href="https://github.com/John-Plough/honeymaker.git" target="_blank">Frontend Code Repo</a></em></p>
 
-**Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Docker and AWS deployment planned next.
+**I Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Docker and AWS deployment planned next.
 
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
