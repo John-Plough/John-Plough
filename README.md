@@ -1,4 +1,4 @@
-## The Honeymaker
+## THE HONEYMAKER
 
 **_Classic snake game—reimagined with 100% more honey_**
 
@@ -19,11 +19,10 @@ _Game Stills_
 
 ![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%26%20GitHub%20OAuth-orange) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
-<br><br>
 
 ---
 
-## Queue•pid
+## QUEUE•PID
 
 **_A match based on taste—not just thirst_**
 
@@ -69,11 +68,10 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails%20%2B%20PostGIS-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
-<br><br>
 
 ---
 
-## Thresh Mercantile
+## THRESH MERCANTILE
 
 **_A rotating selection of curated goods for the quietly discerning_**
 
@@ -97,11 +95,10 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Role--Based--Access-orange) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
-<br><br>
 
 ---
 
-## Weather Bar
+## WEATHER BAR
 
 **_Quick weather. No clutter._**
 
