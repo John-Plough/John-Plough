@@ -31,7 +31,7 @@ _Game Stills_
 **A mobile-first dating app based around TV taste**  
 Users log shows they love, shows they'll rewatch, and shows they want to experience with a partner. Plans include an AI-powered matching algorithm based on shared preferences.
 
-**Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
+**I Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20OAuth-orange) ![api](https://img.shields.io/badge/API-TMDb-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
@@ -58,7 +58,7 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 **A civic mapping app for public resources**  
 Maps restrooms, trash bins, water fountains, and pet waste stations using geospatial data and Google Maps overlays.
 
-**Learned**: Implemented geospatial queries and real-time map overlays. Strengthened skills in API integration and public-data visualization.
+**I Learned**: Implemented geospatial queries and real-time map overlays. Strengthened skills in API integration and public-data visualization.
 
 <!-- ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)<br>
 ![backend](https://img.shields.io/badge/backend-Rails%20API%20%2B%20PostGIS-red)<br>
@@ -91,7 +91,7 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 **A full-featured e-commerce application**  
 Includes shopping cart, order history, admin dashboard, and access control.
 
-**Learned**: Built a full shopping experience with admin functionality. Strengthened understanding of MVC, database design, and user permissions.
+**I Learned**: Built a full shopping experience with admin functionality. Strengthened understanding of MVC, database design, and user permissions.
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Role--Based--Access-orange) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
@@ -118,7 +118,7 @@ Includes shopping cart, order history, admin dashboard, and access control.
 **A lightweight macOS menu bar utility**  
 Displays live weather info using Zsh scripting and xbar plugin architecture.
 
-**Learned**: Explored shell scripting, API polling, and formatting output for native desktop utility integration.
+**I Learned**: Explored shell scripting, API polling, and formatting output for native desktop utility integration.
 
 ![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-pink) ![api](https://img.shields.io/badge/API-Weather%20Service-darkgreen)
 
