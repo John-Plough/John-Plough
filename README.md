@@ -98,6 +98,8 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 ---
 
+---
+
 ## Weather Bar
 
 **_Quick weather. No clutter._**
