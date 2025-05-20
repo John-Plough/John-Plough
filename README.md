@@ -76,9 +76,22 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 ---
 
-## Weather Xbar App
+## Weather Bar
 
 **_Quick weather. No clutter._**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/temp1.png" width="300"/><br>
+      <em>Menu Bar</em>
+    </td>
+    <td align="center">
+      <img src="assets/temp2.png" width="300"/><br>
+      <em>Drop Down</em>
+    </td>
+  </tr>
+</table>
 
 ![tech](https://img.shields.io/badge/tech-Zsh%20%2F%20xbar-lightgrey)  
 ![api](https://img.shields.io/badge/API-Weather%20Service-darkgreen)
