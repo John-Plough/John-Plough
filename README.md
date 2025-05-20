@@ -34,7 +34,7 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 **Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
-![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-TMDb-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
+![auth](https://img.shields.io/badge/auth-Google%20OAuth-orange) ![api](https://img.shields.io/badge/API-TMDb-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 ---
 
