@@ -17,7 +17,7 @@ _Game Stills_
 
 **I Learned**: Integrated OAuth, managed game state with vanilla JS, and designed UI/UX. Docker and AWS deployment planned next.
 
-![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-darkred)<br>
+![frontend](https://img.shields.io/badge/frontend-Vanilla%20JS%20%7C%20CSS%20%7C%20HTML-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-mediumred)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%26%20GitHub%20OAuth-orange) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 ---
