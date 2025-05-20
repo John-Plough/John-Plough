@@ -125,7 +125,7 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 ---
 
 <p align="center">
-  Want to learn more? Visit <a href="https://john-plough.github.io">House of Plough HQ</a>.
+  Want to learn more? Visit House of Plough HQ.
 </p>
 
 <p align="center">
