@@ -28,9 +28,7 @@ _Game Stills_
 
 **_A match based on taste—not just thirst_**
 
-![Queuepid Logo](assets/QueuepidTextLogo.png)
-
-<!-- _Queue•pid_ -->
+![Queuepid Logo](assets/QueuepidTextLogoWeb.png)
 
 **A mobile-first dating app based around TV taste**  
 Users log shows they love, shows they'll rewatch, and shows they want to experience with a partner. Plans include an AI-powered matching algorithm based on shared preferences.
