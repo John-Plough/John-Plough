@@ -28,16 +28,20 @@ _Game Stills_
 
 **_A match based on taste—not just thirst_**
 
+![Queuepid Logo](assets/QueuepidTextLogo.png)
+
+<!-- _Queue•pid_ -->
+
+**A mobile-first dating app based around TV taste**  
+Users log shows they love, shows they'll rewatch, and shows they want to experience with a partner. Plans include an AI-powered matching algorithm based on shared preferences.
+
+**Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
+
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue)  
 ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)  
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange)  
 ![api](https://img.shields.io/badge/API-TMDb-darkgreen)
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
-
-**A mobile-first dating app based on TV taste**  
-Users log shows they love, shows they'll rewatch, and shows they want to experience with a partner. Plans include an AI-powered matching algorithm based on shared preferences.
-
-**Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
 
 ---
 
