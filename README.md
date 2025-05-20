@@ -46,11 +46,11 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 <table>
   <tr>
     <td align="center">
-      <img src="assets/TCoB_Screen.png" width="300"/><br>
+      <img src="assets/TCoB_Screen.png" width="250"/><br>
       <em>iOS Open Screen</em>
     </td>
     <td align="center">
-      <img src="assets/AppScreen.png" width="300"/><br>
+      <img src="assets/AppScreen.png" width="250"/><br>
       <em>iOS Map View</em>
     </td>
   </tr>
@@ -80,11 +80,11 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 <table>
   <tr>
     <td align="center">
-      <img src="assets/hop1a.png" width="300"/><br>
+      <img src="assets/hop1a.png" width="250"/><br>
       <em>Products Page</em>
     </td>
     <td align="center">
-      <img src="assets/hop4.jpg" width="300"/><br>
+      <img src="assets/hop4.jpg" width="250"/><br>
       <em>Dynamic Cart</em>
     </td>
   </tr>
@@ -108,11 +108,11 @@ Includes shopping cart, order history, admin dashboard, and access control.
 <table>
   <tr>
     <td align="center">
-      <img src="assets/temp1.png" width="300"/><br>
+      <img src="assets/temp1.png" width="250"/><br>
       <em>Menu Bar</em>
     </td>
     <td align="center">
-      <img src="assets/temp2.png" width="300"/><br>
+      <img src="assets/temp2.png" width="250"/><br>
       <em>Drop Down</em>
     </td>
   </tr>
