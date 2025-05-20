@@ -33,7 +33,7 @@ Users log shows they love, shows they'll rewatch, and shows they want to experie
 
 **Learned**: Deepened experience with third-party APIs and began prototyping a matching algorithm based on user preferences and powered by AI.
 
-![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)<br>
+![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-TMDb-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 ---
@@ -66,7 +66,7 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 ![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen)<br>
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet) -->
 
-![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails%20%2B%20PostGIS-red)<br>
+![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails%20%2B%20PostGIS-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 ---
@@ -93,7 +93,7 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 **Learned**: Built a full shopping experience with admin functionality. Strengthened understanding of MVC, database design, and user permissions.
 
-![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-red)<br>
+![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails-crimson)<br>
 ![auth](https://img.shields.io/badge/auth-Role--Based--Access-orange) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 ---
