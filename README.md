@@ -67,7 +67,7 @@ Maps restrooms, trash bins, water fountains, and pet waste stations using geospa
 ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet) -->
 
 ![frontend](https://img.shields.io/badge/frontend-React%20%2B%20TailwindCSS-blue) ![backend](https://img.shields.io/badge/backend-Ruby%20on%20Rails%20%2B%20PostGIS-crimson)<br>
-![auth](https://img.shields.io/badge/auth-Google%20%20OAuth-orange) ![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
+![auth](https://img.shields.io/badge/auth-Google%20OAuth-orange) ![api](https://img.shields.io/badge/API-Google%20Maps%20JS%20%2B%20Google%20Geocoding-darkgreen) ![db](https://img.shields.io/badge/database-PostgreSQL-blueviolet)
 
 ---
 
