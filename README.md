@@ -128,7 +128,7 @@ Displays live weather info using Zsh scripting and xbar plugin architecture.
 
 <blockquote>
   <p align="center">
-    LinkedIn: <a href="https://www.linkedin.com/in/jplough">jplough</a>
+    LinkedIn: <a href="https://www.linkedin.com/in/john-plough">john-plough</a>
   </p>
 
   <p align="center">
