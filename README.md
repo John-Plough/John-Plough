@@ -8,7 +8,7 @@
 <p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the animation above to watch an 83-second game walkthrough on YouTube</a></em></p>
 
 **A whimsical web-based snake game**  
-Features OAuth login, user scores, and a playful bee & honey theme. Focus on design and DOM fundamentals (no frameworks, no libraries) - vanilla JS, CSS, & HTML.
+Focus on design and DOM fundamentals (no frameworks, no libraries) - vanilla Javascript, CSS, & HTML. Features OAuth login, user scores, and a playful bee & honey theme.
 
 ![Game Stills](assets/HMStillsShadowed.png)
 _Game Stills_
@@ -117,6 +117,8 @@ Includes shopping cart, order history, admin dashboard, and access control.
 
 **A lightweight macOS menu bar utility**  
 Displays live weather info using Zsh scripting and xbar plugin architecture.
+
+[README](https://github.com/John-Plough/xbar/blob/main/README.md)
 
 **Personal Growth**: Explored shell scripting, API polling, and formatting output for native desktop utility integration.
 
