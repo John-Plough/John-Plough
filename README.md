@@ -3,7 +3,7 @@
 **_Classic snake game—reimagined with 100% more honey_**
 
 <a href="https://youtu.be/zJtuD3XLpzc" target="_blank">
-  <img src="assets/HoneymakerGif.gif" alt="90-second Walkthrough" />
+  <img src="assets/HoneymakerGiphy.gif" alt="90-second Walkthrough" />
 </a>  
 <p><em><a href="https://youtu.be/zJtuD3XLpzc" target="_blank">Click the animation above to watch an 83-second game walkthrough on YouTube</a></em></p>
 
