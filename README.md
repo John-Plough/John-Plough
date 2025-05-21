@@ -118,7 +118,7 @@ Includes shopping cart, order history, admin dashboard, and access control.
 **A lightweight macOS menu bar utility**  
 Displays live weather info using Zsh scripting and xbar plugin architecture.
 
-[The README](https://github.com/John-Plough/xbar/blob/main/README.md)
+[Weather Bar README](https://github.com/John-Plough/xbar/blob/main/README.md)
 
 **Personal Growth**: Explored shell scripting, API polling, and formatting output for native desktop utility integration.
 
