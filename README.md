@@ -105,11 +105,11 @@ Includes shopping cart, order history, admin dashboard, and access control.
 <table>
   <tr>
     <td align="center">
-      <img src="assets/temp1.png" width="250"/><br>
+      <img src="assets/WeatherApp1.png" width="250"/><br>
       <em>Menu Bar</em>
     </td>
     <td align="center">
-      <img src="assets/temp2.png" width="250"/><br>
+      <img src="assets/WeatherApp2.png" width="250"/><br>
       <em>Drop Down</em>
     </td>
   </tr>
